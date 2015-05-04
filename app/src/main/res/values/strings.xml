@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScriptApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="op1">Option 1</string>
+    <string name="op2">Option 2</string>
+    <string name="op3">Option 3</string>
+    <string name="choose">Choose An Adventure!</string>
+    <string name="adv1">Adventure #1</string>
+    <string name="adv2">Adventure #2</string>
+    <string name="adv3">Adventure #3</string>
+    <string name="adv4">Adventure #4</string>
+
+</resources>

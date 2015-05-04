@@ -1,0 +1,52 @@
+* 00 You enter the grocery store, you're only there to pick up a few basic things: bread, some vegetables, eggs, and the like. What's the plan?
+# 00 00 01 Go straight to get what you came here for
+# 00 01 02 Check other aisles for sales
+# 00 02 03 Leave and get fast food
+* 01 You go right to your first necessity - bread. You normally get white bread, but there's also some whole wheat bread at a discounted rate. It'd save you enough for a snack for yourself.
+# 01 00 04 Take white bread and head to the snacks isle for a treat
+# 01 01 05 Take white bread and keep your savings
+# 01 02 06 Take whole wheat bread and keep your savings
+* 02 You start checking out other aisles, starting with dairy and meats. Nothing really catches your eye, so you keep moving until you end up near the eggs. You grab the last carton, and start to walk away before there's a tug at your pants legs. A ten-year-old boy asks "Um.. I need eggs.. Please?"
+# 02 00 07 Nod and hand over the carton of eggs
+# 02 01 08 Apologize and hang onto the eggs
+# 02 02 09 Refuse to acknowledge his question and just keep walking
+* 03 You walk right back out the entrance, realizing you're too good to be making your own food. As you get back into the car, you start wondering what you'd even want to eat...
+# 03 00 10 Burger and Fries
+# 03 01 11 Quesadilla and Tacos
+# 03 02 12 Pizza
+*D
+#Reset
+#Reset
+#Reset
+*D
+#Reset
+#Reset
+#Reset
+*D
+#Reset
+#Reset
+#Reset
+*D
+#Reset
+#Reset
+#Reset
+*D
+#Reset
+#Reset
+#Reset
+*D
+#Reset
+#Reset
+#Reset
+*D
+#Reset
+#Reset
+#Reset
+*D
+#Reset
+#Reset
+#Reset
+*D
+#Reset
+#Reset
+#Reset
