@@ -242,4 +242,6 @@ public class MainActivity extends ActionBarActivity {
         tView.setText("Choose An Adventure!");
         layout.setBackgroundColor(Color.TRANSPARENT);
     }
+    
+    // My documentation skills are terrible :c
 }
